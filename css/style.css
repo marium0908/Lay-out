@@ -1,0 +1,57 @@
+.header{
+	height: 100px;
+	background-color: red;
+}
+.container{
+	overflow: hidden;
+}
+.blog{
+	float: left;
+	width: 60%;
+	height: 150px;
+	background-color: green;
+}
+.contact{
+	float: right;
+	width: 40%;
+	height: 150px;
+	background-color: teal;
+}
+.item{
+	float: left;
+	width: 33.33%;
+	height: 100px;
+}
+.aqua{
+	background-color: aqua;
+}
+.oran{
+	background-color: orange;
+}
+.yell{
+	background-color: yellow;
+}
+.product{
+	float: left;
+	width: 25%;
+	height: 100px;
+}
+.a{
+	background-color: violet;
+}
+.b{
+	background-color: purple;
+}
+.c{
+	background-color: skyblue;
+}
+.d{
+	background-color: darkred;
+}
+
+.footer{
+	clear: both;
+	height: 100px;
+	background-color: blue;
+}
+
